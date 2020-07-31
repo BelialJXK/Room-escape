@@ -1,5 +1,5 @@
 # Room-escape
-It is a my onw small 3D computer game game .I hope you like it.
+It is a my own small 3D computer game game .I hope you like it.
 
 
 This is ulr of the game download:
